@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin0p&label=Profile%20views&color=0e75b6&style=flat" alt="sachin0p" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachin0p" alt="sachin0p" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning,Deep Learning**
 
 - 📫 How to reach me **sachinprakashramesh@gmail.com**
