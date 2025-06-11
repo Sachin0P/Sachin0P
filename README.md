@@ -1,105 +1,20 @@
-<!-- Header Banner (replace with your own banner if you'd like) -->
-<p align="center">
-  <img src="https://i.imgur.com/Sa3Jj5F.png" alt="AI & IoT Banner" width="100%" />
+<h1 align="center">Hi 👋, I'm Sachin Prakash</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin0p&label=Profile%20views&color=0e75b6&style=flat" alt="sachin0p" /> </p>
+
+- 🌱 I’m currently learning **Machine Learning,Deep Learning**
+
+- 📫 How to reach me **sachinprakashramesh@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sachin-prakash-b07426327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-prakash-b07426327" height="30" width="40" /></a>
+<a href="https://kaggle.com/m0tab1lla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="m0tab1lla" height="30" width="40" /></a>
+<a href="https://instagram.com/m0ta_b1lla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m0ta_b1lla" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bgqvi4kp4r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bgqvi4kp4r" height="30" width="40" /></a>
 </p>
 
-<h1 align="center">Hi, I'm Sachin Prakash 👨‍💻</h1>
-
-<p align="center">
-  <b>AI/ML Enthusiast | IoT Explorer | Future Data Scientist</b>  
-</p>
-
-<p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-me-red?style=flat&logo=gmail"></a>
-</p>
-
----
-
-## 📚 What I'm Learning
-
-<img align="right" src="https://i.imgur.com/qRbYqGb.png" width="300"/>
-
-### 🧠 Programming & Core Concepts
-- Python 🐍 and R 📊
-- Data structures, OOP, functions, file handling
-
-### 🔍 Machine Learning
-- Regression, SVM, Decision Trees, Random Forest 🌲
-- Model tuning, Cross-validation, Pipelines
-
-### 🧬 Deep Learning
-- CNN, RNN, LSTM
-- GANs, Autoencoders, Transformers 🤖
-
-### 📈 Data Analytics
-- Statistics, Probability, Exploratory Data Analysis
-- Visualization with PowerBI & Tableau 📊
-
-### ⚙ Optimization & Algorithms
-- Genetic Algorithms 🧬
-- Simulated Annealing, Swarm Optimization 🐝
-
----
-
-## 🔬 Real-World Technologies
-
-| Technology | Areas |
-|------------|-------|
-| 🌐 IoT | Edge computing, ESP32, Raspberry Pi, MQTT |
-| 🧠 NLP | Tokenization, BERT, GPT-2, Text Classification |
-| 🖼️ CV | OpenCV, Image Classification, Object Detection |
-| ☁️ Cloud | AWS (S3, Lambda), Azure, Streamlit Deployment |
-| 📊 Dashboards | PowerBI, Tableau, Streamlit |
-| 🤖 Generative AI | GANs, Diffusion, LLM Fine-tuning |
-
----
-
-## 🚀 My Projects
-
-<p align="center">
-  <img src="https://i.imgur.com/FJ3Nb7q.png" width="600"/>
-</p>
-
-| ⭐ Project | Description | Tools Used |
-|----------|-------------|------------|
-| `iDeepGaze 👁️` | Detect diabetes using eye-gaze and CNNs + IoT | Raspberry Pi, OpenCV, TensorFlow |
-| `GAN Art 🎨` | Generate abstract art using GANs | PyTorch, Matplotlib |
-| `Stock Forecaster 📈` | LSTM model for stock prediction | Keras, Plotly |
-| `AI Chatbot 🤖` | Q&A bot with Transformer fine-tuning | HuggingFace, Streamlit |
-| `ML API 🚀` | Flask + Docker ML model server | Flask, Docker |
-| `Sales Dashboard 📊` | Business KPI dashboard | PowerBI, SQL |
-
----
-
-## 🧠 My Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,aws,tensorflow,pytorch,git,docker,linux,azure,postgresql" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default" />
-</p>
-
----
-
-## 📬 Let's Connect
-
-- 📧 Email: `your_email@example.com`
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🧠 Portfolio: *Coming Soon*
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
----
-
-> *“The best way to predict the future is to create it.” – Alan Kay*
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
