@@ -1,63 +1,20 @@
-# 👨‍💻 Sachin Prakash | AI & IoT Enthusiast
+<h1 align="center">Hi 👋, I'm Sachin Prakash</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-![AI](https://img.shields.io/badge/AI-Deep%20Learning-blue.svg?style=flat&logo=deepin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Expert-yellow.svg?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-Data%20Analytics-blue.svg?style=flat&logo=R&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-Edge%20Computing-green.svg?style=flat&logo=raspberry-pi&logoColor=white)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin0p&label=Profile%20views&color=0e75b6&style=flat" alt="sachin0p" /> </p>
 
-Welcome! I'm a Computer Engineering student passionate about leveraging Machine Learning, Deep Learning, NLP, Generative AI, and IoT to build innovative, real-world solutions.
+- 🌱 I’m currently learning **Machine Learning,Deep Learning**
 
----
+- 📫 How to reach me **sachinprakashramesh@gmail.com**
 
-## 🚀 Key Skills
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sachin-prakash-b07426327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-prakash-b07426327" height="30" width="40" /></a>
+<a href="https://kaggle.com/m0tab1lla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="m0tab1lla" height="30" width="40" /></a>
+<a href="https://instagram.com/m0ta_b1lla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m0ta_b1lla" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bgqvi4kp4r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bgqvi4kp4r" height="30" width="40" /></a>
+</p>
 
-- 🌟 **Machine Learning** (Decision Trees, Random Forest, SVM)
-- 🧠 **Deep Learning** (CNN, RNN, LSTM, GANs, Transformers)
-- 🗣️ **Natural Language Processing** (NER, Transformers, LLMs)
-- 🔗 **Internet of Things (IoT)** (ESP32, Raspberry Pi, MQTT)
-- 📈 **Data Visualization & Dashboards** (PowerBI, Tableau)
-- ☁️ **Cloud & Deployment** (AWS, Azure, Docker, Flask)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
----
-
-## 📚 Featured Projects
-
-| Project | Description | Tools | Preview |
-|---------|-------------|-------|---------|
-| 🧠 **Gaze-based Diabetes Detection** | IoT-enabled CNN for diabetic detection using gaze analysis. | TensorFlow, OpenCV, Raspberry Pi | ![eye](https://img.icons8.com/color/48/visible.png) |
-| 🎨 **GAN Art Generator** | Abstract image generation using Generative Adversarial Networks. | PyTorch, Matplotlib | ![art](https://img.icons8.com/color/48/paint-palette.png) |
-| 📊 **Interactive Dashboard** | Comprehensive dashboards for real-time analytics. | PowerBI, Tableau | ![dashboard](https://img.icons8.com/color/48/combo-chart.png) |
-| 💬 **LLM Chatbot** | Interactive chatbot using transformer models (GPT, BERT). | HuggingFace, Transformers, Streamlit | ![chatbot](https://img.icons8.com/color/48/chat.png) |
-
----
-
-## 🔧 Technology Stack
-
-![Python](https://img.icons8.com/color/48/python.png)
-![R](https://img.icons8.com/color/48/r-project.png)
-![TensorFlow](https://img.icons8.com/color/48/tensorflow.png)
-![PyTorch](https://img.icons8.com/color/48/pytorch.png)
-![AWS](https://img.icons8.com/color/48/amazon-web-services.png)
-![Docker](https://img.icons8.com/color/48/docker.png)
-![PowerBI](https://img.icons8.com/color/48/power-bi.png)
-![Raspberry Pi](https://img.icons8.com/color/48/raspberry-pi.png)
-
----
-
-## 🎯 Career Goals
-
-- ✅ **Develop innovative AI solutions** addressing real-world problems  
-- ✅ **Contribute** actively to open-source AI/IoT communities  
-- ✅ **Secure a position** in AI/ML engineering to utilize my skills  
-
----
-
-## 📫 Connect with Me
-
-- ✉️ Email: [your_email@example.com](mailto:your_email@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- 🐱 GitHub: [github.com/yourusername](https://github.com/yourusername)
-
----
-
-> *“Innovation distinguishes between a leader and a follower.” – Steve Jobs*
