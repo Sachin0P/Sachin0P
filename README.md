@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin0p&label=Profile%20views&color=0e75b6&style=flat" alt="sachin0p" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning,Deep Learning**
+- 🌱 I’m currently learning **Machine Learning,Deep Learning,Data Analysis**
 
 - 📫 How to reach me **sachinprakashramesh@gmail.com**
 
