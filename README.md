@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Prakash</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🌱 I’m currently learning **Python,GOland,SQL,Linux,Docker**
+- 🌱 I’m currently learning **Python,GOlang,SQL,Linux,Docker**
 
 - 📫 How to reach me **sachinprakashramesh@gmail.com**
 
