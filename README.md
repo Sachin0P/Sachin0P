@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Prakash</h1>
-<h3 align="center">A passionate DevOps from India</h3>
+<h3 align="center">A passionate DevOps engineer from India</h3>
 
 - 🌱 I’m currently learning **GOlang,SQL,Docker,Kubernetes etc.**
 
